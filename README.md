@@ -37,8 +37,7 @@ My name is ___. I am ___ years old. I study at ___.
 
 **Output Screenshot:**
 
-[Upload screenshot here]
-
+![alt text](PersonaIntroduction.PNG)
 ---
 
 ### Task 2 – Eligibility Checker
@@ -55,7 +54,7 @@ Display an appropriate message indicating whether the user is eligible or not el
 
 **Output Screenshot:**
 
-[Upload screenshot here]
+![alt text](Eigibiitychecker.PNG)
 
 ---
 
@@ -80,7 +79,7 @@ Write a Java program to print the following pattern.
 
 **Output Screenshot:**
 
-[Upload screenshot here]
+![alt text](PatternPrinting.PNG)
 
 ---
 
@@ -116,7 +115,7 @@ Create a class called `BankAccount` with the following:
 
 **Output Screenshot:**
 
-[Upload screenshot here]
+![alt text](BankAccountManagement.PNG)
 
 ---
 
@@ -145,7 +144,7 @@ Create two child classes: `Dog` and `Cat`.
 
 **Output Screenshot:**
 
-[Upload screenshot here]
+![alt text](AnimalKingdom.PNG)
 
 ---
 
@@ -176,7 +175,7 @@ Create three child classes:
 
 **Output Screenshot:**
 
-[Upload screenshot here]
+![alt text](ShapeAreaCalcuator.PNG)
 
 ---
 
@@ -186,18 +185,18 @@ Create three child classes:
 
 **📝 Project Problem Statement:**
 
-[Add the complete project question or problem statement provided during the boot camp.]
+Develo a basic desktop calculator using Java Swing that aows user to perform basic arithmetic calculations through a GUI.
 
 ### 📌 Project Description
 
-[Briefly describe the project, its purpose, the problem it solves, and how it works.]
+This project is a GUI based calculator developed using Java Swing.It provides an interactive interface with buttons for numerica input and operations.The application processes under user input and displays results in real time.
 
 ### ✨ Key Features
 
-- [Mention the first major feature.]
-- [Mention the second major feature.]
-- [Mention the third major feature.]
-- [Mention any additional functionality.]
+-Basic arithmetic operations.
+-Clear(AC) functionality to reset calculator.
+-Positive/Negative number conversion.
+-Decimal number support.
 
 ### 🛠️ Technologies Used
 
@@ -208,8 +207,7 @@ Create three child classes:
 
 ### 📸 Final Project Output
 
-[Upload screenshot here]
-
+![alt text](Calculator.PNG)
 ---
 
 👩‍💻 STUDENT INFORMATION

@@ -181,15 +181,15 @@ Create three child classes:
 
 ## 📅 DAY 3 & DAY 4 – PROJECT DEVELOPMENT
 
-### 🚀 Project Title: [Your Project Name]
+### 🚀 Project Title: Java Swing Calculator
 
 **📝 Project Problem Statement:**
 
-Develo a basic desktop calculator using Java Swing that aows user to perform basic arithmetic calculations through a GUI.
+Develop a basic desktop calculator using Java Swing that allows user to perform basic arithmetic calculations through a GUI.
 
 ### 📌 Project Description
 
-This project is a GUI based calculator developed using Java Swing.It provides an interactive interface with buttons for numerica input and operations.The application processes under user input and displays results in real time.
+This project is a GUI based calculator developed using Java Swing.It provides an interactive interface with buttons for numerical input and operations.The application processes user input and displays results in real time.
 
 ### ✨ Key Features
 
@@ -197,6 +197,8 @@ This project is a GUI based calculator developed using Java Swing.It provides an
 -Clear(AC) functionality to reset calculator.
 -Positive/Negative number conversion.
 -Decimal number support.
+-Percentage Calculation support.
+-Zero-by-zero handling
 
 ### 🛠️ Technologies Used
 

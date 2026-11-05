@@ -193,19 +193,18 @@ This project is a GUI based calculator developed using Java Swing.It provides an
 
 ### ✨ Key Features
 
--Basic arithmetic operations.
--Clear(AC) functionality to reset calculator.
--Positive/Negative number conversion.
--Decimal number support.
--Percentage Calculation support.
--Zero-by-zero handling
+- **Basic arithmetic operations.**
+- **Clear(AC) functionality to reset calculator.**
+- **Positive/Negative number conversion.**
+- **Decimal number support.**
+- **Percentage Calculation support.**
+- **Zero-by-zero handling.**
 
 ### 🛠️ Technologies Used
 
 - **Programming Language:** Java
 - **IDE:** Eclipse
 - **Concepts:** Object-Oriented Programming
-- **Additional Technologies:** [If applicable]
 
 ### 📸 Final Project Output
 

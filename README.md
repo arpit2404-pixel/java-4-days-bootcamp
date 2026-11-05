@@ -222,7 +222,7 @@ Department: Computer Science and Engineering
 
 College: College of Engineering Perumon 
 
-GitHub Profile: Arpit2404-pixel 
+GitHub Profile:https://github.com/arpit2404-pixel
 
 LinkedIn Profile: Arpit A
 

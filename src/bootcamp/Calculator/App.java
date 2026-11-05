@@ -1,4 +1,4 @@
-package Swing;
+package Calculator;
 
 public class App {
 

@@ -1,4 +1,4 @@
-package Swing;
+package Calculator;
 
 import java.awt.*;
 import java.awt.event.*;

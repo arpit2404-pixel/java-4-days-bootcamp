@@ -189,7 +189,7 @@ Develop a basic desktop calculator using Java Swing that allows user to perform 
 
 ### 📌 Project Description
 
-This project is a GUI based calculator developed using Java Swing.It provides an interactive interface with buttons for numerical input and operations.The application processes user input and displays results in real time.
+This project is a GUI based calculator developed using Java Swing. It provides an interactive interface with buttons for numerical input and operations. The application processes user input and displays results in real time.
 
 ### ✨ Key Features
 
@@ -198,7 +198,7 @@ This project is a GUI based calculator developed using Java Swing.It provides an
 - **Positive/Negative number conversion.**
 - **Decimal number support.**
 - **Percentage Calculation support.**
-- **Zero-by-zero handling.**
+- **Division-by-zero handling.**
 
 ### 🛠️ Technologies Used
 

@@ -214,17 +214,17 @@ Create three child classes:
 
 👩‍💻 STUDENT INFORMATION
 
-Name: Your Full Name
+Name: Arpit A
 
-Class / Year: Your Class and Year
+Class / Year: CSE-A / First Year
 
-Department: Your Department
+Department: Computer Science and Engineering 
 
-College: Your College Name
+College: College of Engineering Perumon 
 
-GitHub Profile: Your GitHub Username
+GitHub Profile: Arpit2404-pixel 
 
-LinkedIn Profile: Your LinkedIn Profile
+LinkedIn Profile: Arpit A
 
 ---
 <p align="center">

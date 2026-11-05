@@ -222,7 +222,7 @@ College: College of Engineering Perumon
 
 GitHub Profile:https://github.com/arpit2404-pixel
 
-LinkedIn Profile: Arpit A
+LinkedIn Profile: https://www.linkedin.com/in/arpit-a-928606430?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 <p align="center">
